@@ -1,0 +1,6 @@
+1. For concept of records: http://orion.lcg.ufrj.br/Dr.Dobbs/books/book2/chap02.htm
+
+2. For info about files: https://faculty.winthrop.edu/dannellys/csci325/
+
+3. Other concepts (Structures and records) from "The Spirit of 'C'"(1998) by Mullish Cooper
+(Chapters 13, 14)

@@ -1,0 +1,5 @@
+   201          Cashew-Nuts 400.00  150               salted 323234
+   202              Almonds 250.00  200          Californian 223344
+   203              Raisins 300.00  100           Fibre-rich 555886
+   204              Walnuts 1000.00   50                whole 444333
+   205           Pistachios 500.00   50         On-Clearance 234567

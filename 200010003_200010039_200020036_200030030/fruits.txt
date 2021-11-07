@@ -1,0 +1,5 @@
+   301                Apple 100.00   50                 Gala 555886
+   302               Banana  30.00   50          Almost-Ripe 444333
+   303            Pineapple  38.00   25        VitaminC-rich 444333
+   304               Orange 150.00   50               Orange 234567
+   305               Grapes  55.00   45          fresh&juicy 234567

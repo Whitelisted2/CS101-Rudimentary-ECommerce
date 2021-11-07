@@ -1,0 +1,10 @@
+   101               Potato  30.00   50          high-starch 323234
+   102                Gourd  50.00   10                Fresh 223344
+   103         Bitter-Gourd  50.00   15         New-in-stock 223344
+   104          Cauliflower  15.00   20         not-broccoli 223344
+   105               Tomato  12.00  100                  Red 555886
+   106              pumpkin  30.00   10        for-halloween 323234
+   107                 Okra  50.00   50                 Long 246810
+   108             eggplant  60.00   40               Purple 246810
+   109              Avocado  70.00   30      FRE_SH_AVA_CADO 323234
+   110         Sweet-Potato  50.00   25      good-for-health 323234
